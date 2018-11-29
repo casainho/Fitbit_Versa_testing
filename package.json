@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "35d66a92-fe74-4664-bc4d-8efb5deafda8",
+    "appType": "app",
+    "appDisplayName": "t02",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "t02"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~2.0.0"
+  }
+}
